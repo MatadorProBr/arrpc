@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         arRPC Client
 // @namespace    https://github.com/OpenAsar
-// @version      0.1
+// @version      0.2
 // @description  Userscript Client for arRPC with Discord Web
 // @author       OpenAsar
+// @homepageURL  https://arrpc.openasar.dev
 // @match        https://*.discord.com/*
+// @updateURL    https://github.com/OpenAsar/arrpc/raw/main/ext/userscript.user.js
+// @downloadURL  https://github.com/OpenAsar/arrpc/raw/main/ext/userscript.user.js
 // @grant        none
 // @license      MIT
 // ==/UserScript==
